@@ -10,7 +10,11 @@ You need the free program **7-Zip** to open the locked file.
 
 ## Host the game
 
-1. Download **both** files, **host-package-1-of-2.zip** and **host-package-2-of-2.zip** (click each, then the Download button on the right). Put them together in one empty folder. (There are two because the game is too big for one file here.)
+1. Download **both** files by clicking these two links (do not right-click and save; just click, and the download starts by itself):
+   - [host-package-1-of-2.zip](https://github.com/Kaatlev/BENCHMARK-encrypted/raw/main/host-package-1-of-2.zip) (about 90 MB)
+   - [host-package-2-of-2.zip](https://github.com/Kaatlev/BENCHMARK-encrypted/raw/main/host-package-2-of-2.zip) (about 97 MB)
+
+   Put them together in one empty folder. Check the sizes: if a file is only a few hundred KB it is the web page and not the download, so delete it and click the link again. (There are two files because the game is too big for one file here.)
 2. Right-click **host-package-1-of-2.zip**, choose **7-Zip > Extract here**, and type the password when asked. Then do the same with **host-package-2-of-2.zip**. Both go into the same folder.
 3. Open the folder it made and read **START_HERE_HOST.txt**. It has the steps.
 4. Keep all the files in that folder together. Double-click **ImpactZeroDays.exe** to start.
