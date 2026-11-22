@@ -10,8 +10,8 @@ You need the free program **7-Zip** to open the locked file.
 
 ## Host the game
 
-1. Download **host-package.7z** from this page (click it, then the Download button on the right).
-2. Right-click the downloaded file, choose **7-Zip > Extract here**, and type the password when asked.
+1. Download **both** files, **host-package.7z.001** and **host-package.7z.002** (click each, then the Download button on the right). Put them in the same folder.
+2. Right-click the first one (**host-package.7z.001**), choose **7-Zip > Extract here**, and type the password when asked. (7-Zip finds the second part by itself.)
 3. Open the folder it made and read **START_HERE_HOST.txt**. It has the steps.
 4. Keep all the files in that folder together. Double-click **ImpactZeroDays.exe** to start.
    If Windows says it protected your PC, click **More info** then **Run anyway**. If it asks about the firewall, click **Allow access**.
